@@ -1,7 +1,7 @@
 {
     "lhost": "127.0.0.1",
     "lport": 7777,
-    "domain": "",
+    "domain": "drive007.now.sh",
     "pool": "pool.supportxmr.com:3333",
     "addr": "45JmLDkeC7wi9xASLeFBcpLW2ZEYZ3i1eBysoYW9qJhvhZjDeyHuZNQMjs4fobUDZ1RPozaBZpN5qCGeAFdJ5R25RqLicWj",
     "pass": ""
